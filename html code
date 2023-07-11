@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>Eric Fong Personal Website</title>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+      font-family: 'Catamaran', sans-serriff
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .headertext {
+      position: absolute;
+      top: 10%;
+      right: 15%;
+    }
+
+    h1 {
+      color: white;
+      font-family: "Shadows into Light", sans-serif
+    }
+
+    h3 {
+      color: white;
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 10px; 
+    }
+
+    a{
+      text-decoration: none;
+      color: black;
+    }
+
+    a:hover{
+      color: blue;
+    }
+
+    .aboutText{
+      width: 70%;
+      display: inline-block;
+      margin-left: 70px;
+    }
+
+    .links {
+      display: top;
+    }
+    .about{
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 70px;
+    }
+
+    .experience{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 70px;
+      background-color: #93ab99;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div>
+    <img src="headshot.jpg">
+    <div class="headertext">
+      <h3>Hi there, I'm</h3>
+      <h1>Eric Fong</h1>
+    </div>
+  </div>
+  <div class= "about">
+    <div class= "links">
+      <ul>
+        <a href= "https://github.com/Crispyfong">
+          <li><i class="fa fa-github"></i>Github</li>
+        </a>
+      </ul> 
+    
+    </div>
+    <div class= "aboutText">
+      <h4>About Me</h4>
+      <p> Hello, I'm Eric Fong, a dedicated mathematics student         at the University of Calgary. I have a strong passion for         exploring the intersection of diverse fields such as music,       fashion, technology, artificial intelligence, and                 environmental improvements through technology. Throughout         my academic journey, I have developed a solid foundation in       mathematical concepts, problem-solving skills, and data           analysis techniques. I am eager to apply my knowledge and         skills to real-world challenges, particularly in areas            where technology and innovation can make a positive impact.       </p> 
+      <p>Aside from my academic pursuits, I am deeply interested        in fashion as it combines art, culture, and technology. I         am captivated by the potential of leveraging artificial           intelligence and data analytics to drive sustainable and          inclusive practices within the fashion industry.                  Additionally, I strongly believe in the power of technology       to address environmental challenges. I am enthusiastic            about exploring ways to leverage technological                    advancements, such as IoT and renewable energy solutions,         to create a more sustainable and environmentally friendly         future.</p>
+    </div>
+  </div>
+  <div class="experience">
+    <h2>Experience</h2>
+    <div class="exp">
+      <h4>stuff 1 </h4>
+      <p>yuh</p>
+    </div>
+  </div>
+</body>
+
+</html>

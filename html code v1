@@ -79,13 +79,12 @@
       <h1>Eric Fong</h1>
     </div>
   </div>
-  <div class= "about">
-    <div class= "links">
+ <div class="about">
+    <div class="links">
       <ul>
-        <a href= "https://github.com/Crispyfong">
-          <li><i class="fa fa-github"></i>Github</li>
+        <li><a href="https://github.com/Crispyfong" target="_blank"><i class="fa fa-github"></i>Github</li>
         </a>
-      </ul> 
+      </ul>
     
     </div>
     <div class= "aboutText">
